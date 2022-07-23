@@ -1,0 +1,48 @@
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+header {
+    background-color: #000000;
+    border-style: solid;
+    border-color: #394d35;
+    background-image: url(https://seatup.com/blog/wp-content/uploads/2019/03/MusicNote-Header-V3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+header  h1{
+color: #226BFC;
+padding-top: 20px;
+padding-left: 40px;
+font-family: 'Fascinate', cursive;
+font-size: 60px;
+}
+header h2{
+    color: #22b7fc;
+    padding-left: 40px;
+    }
+section {
+    background-color:#F1EEE9;
+    border-style: solid;
+    border-color: #1363DF;
+}
+.vinilo {
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 2px 2px 5px rgb(103, 102, 102);
+    margin-left: 100px;
+  }
+footer {
+    background-color: #47B5FF;
+    border-style: solid;
+    border-color: #1363DF;
+    text-align: center;
+}
+div{
+    padding: 40px;  
+}
+div p{
+    display: inline-block;
+    vertical-align: top;  
+    padding-left: 40px;  
+    padding-top: 50px;
+}
